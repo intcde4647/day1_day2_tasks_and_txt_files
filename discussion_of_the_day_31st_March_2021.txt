@@ -1,0 +1,32 @@
+Full Stack Developer ====>
+
+     Java Full Stack Developer
+     DOTNET Full Stack Developer
+     MEAN Full Stack Developer 
+     MERN Full Stack Developer
+
+------------------------------------------------------------------------------------------------------------
+  JavaScript was being used as Frontend technology. But nowadays Javascript is being treated
+as for the development of the backend.  
+
+   M======> MongoDB =========> NOSQL Database 
+
+   Polyglot application/ Polyglot persistence
+   Monolithic applications/Microservices 
+   Online Item purchasing site needs to store the user details and at the same time they need 
+to keep the day to day purchase related informatiom so that they can which product is rarely being
+purchased by the user so that some discount can be given on those items. 
+   
+We can plan for multiple types of databases 
+  * For user's credentials we are going to go for RDBMS like Oracle/MySQL.
+  * For user's purchase related details they are going to take the help of NOSQL kind of database.
+
+ Express.js 
+  Angular ======> SPA 
+  ReactJS/React
+
+  Node.js ======> Execution environment for JS. 
+
+https://cognizant-staging1.tekstac.com/login/index.php
+
+--------------------------------------------------------------------------------------------------------------

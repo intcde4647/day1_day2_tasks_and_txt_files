@@ -1,0 +1,48 @@
+1) What was your learning for 3rd March 2021.
+2) Queries from the team members.
+
+
+Prior knowledge:-------
+ Avinash:- Software Architecture
+  How we design a software.
+  
+
+  UI ( User Interface)
+  ====>
+ easy to navigate
+ attractive and responsive UI
+  Simple
+  Markup
+  Highly responsive
+  minimalist design
+
+  RWD ( Responsive Web Designing)
+Media Queries and BootStrap
+
+
+Github ====> INTCDE21_46_47
+
+https://www.w3schools.com/html/
+https://www.w3schools.com/css/default.asp
+https://www.w3schools.com/bootstrap4/default.asp   ( RWD)
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+
+While developing this UI related pages , what IDE
+VSC , Intellj, bracket, atom, sublime
+
+
+https://code.visualstudio.com/download
+--------------------------------------------------------------------
+CDN-Content Delivery Network. 
+ Network of servers and proxy servers which are housed with the resources like
+ images, script files, css files.
+
+Live-Server======> It is a light weight server. It gives the impression that you 
+have your page being deployed in a server. 
+
+ How we can use live server alongwith VSC. Just click on Extension ( Ctrl+Shift+X).
+Go for installing.
+ ---------------------------------------------------------------------------------------
+Shamim, How you are going to proceed your learning for the day?
+-------------------------------------------------------------------------------------------------------------------
